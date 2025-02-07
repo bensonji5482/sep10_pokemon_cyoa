@@ -1,6 +1,6 @@
 # Fight the Pokemon
 
-You cooked the wild Pidgey with your Froakie / Charmander / Turtwig. What do you want to do to the Pokemon now?
+You defeated the wild Pidgey with your starter. What do you want to do to the Pokemon now?
 
 [Catch the Pokemon with Pokeball](catchpoke.md)
 

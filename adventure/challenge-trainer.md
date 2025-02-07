@@ -5,4 +5,4 @@ With your pokemon low on health you can either go back to the lab or continue on
 
 [Back to Pokelab](pokelab.md)
 
-[Continue exploring the cave](cave-continued-md)
+[Continue exploring the cave](cave-continued.md)

@@ -1,5 +1,5 @@
 # Fight the Pokemon Again
 
-Instead of you defeating the wild Primeape (Level 7) with your starter, you lose both of your pokemon in the face of battle. You leave empty handed and lose the adventure.
-
-[Back to Pokelab](pokelab.md)
+During your fight with the wild Primape it runs away. You gain nothing and continue on with your adventure.
+The tall grass ends here, all theres left is to go into the cave.
+[Go into the Cave](cave.md)

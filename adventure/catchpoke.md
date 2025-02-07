@@ -1,5 +1,7 @@
 # Catch the Pokemon
 
-You end up catching Pidgey Pokemon with 2 pokeballs. You end your adventure with 2 pokemons in your possesion. You walk back to the Pokelab to report what you found and waits for the next day to begin.
+You throw a pokeball at the wild pidgey, through sheer luck you are able to catch it.
+You've caught your very first pokemon on your own.
 
-[Back to Pokelab](pokelab.md)
+[Explore the Cave](cave.md)
+[Continue exploring the tall grass](tall-grass-continued.md)
